@@ -27,56 +27,56 @@
     },
     "content": [
         {
-            "anan": "akis",
+            "name": "akis",
             "playlistId": "WqmRvXXa",
             "featured": true,
             "enableText": true
         },
         {
-            "anan": "kesfet",
+            "name": "kesfet",
             "playlistId": "H5Rxyqw4",
             "type": "grid",
             "enableSeeAll": true,
             "rows": 2
         },
         {
-            "anan": "yeni eklenenler",
+            "name": "yeni eklenenler",
             "playlistId": "WGweqaJe",
             "type": "grid",
             "enableSeeAll": true,
             "rows": 3
         },
         {
-            "anan": "izlersen seversin",
+            "name": "izlersen seversin",
             "playlistId": "VH9hy3mD",
             "enableSeeAll": true
         },
         {
-            "anan": "og komedi",
+            "name": "og komedi",
             "playlistId": "ZVrxgMN6",
             "enableSeeAll": true
         },
         {
-            "anan": "og programlar",
+            "name": "og programlar",
             "playlistId": "Tk7Ip9ox",
             "enableSeeAll": true
         },
         {
-            "anan": "og drama",
+            "name": "og drama",
             "playlistId": "r0hyKXTt",
             "enableSeeAll": true
         },
         {
-            "anan": "sosyal medya",
+            "name": "sosyal medya",
             "playlistId": "BGLmzouR",
             "enableSeeAll": true
         },
         {
-            "anan": "İzlersen Bilirsin",
+            "name": "İzlersen Bilirsin",
             "playlistId": "ruImEBRS"
         },
         {
-            "anan": "Komedi",
+            "name": "Komedi",
             "playlistId": "PgfYWi0q"
         }
     ],
