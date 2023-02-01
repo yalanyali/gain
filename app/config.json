@@ -51,9 +51,24 @@
             "playlistId": "VH9hy3mD",
             "enableSeeAll": true
         },
-        {
+	{
             "name": "Ayak Isleri",
             "playlistId": "N8WrgpfG",
+            "enableSeeAll": true
+        },
+        {
+            "name": "Ayak Isleri 2",
+            "playlistId": "04rVDwvp",
+            "enableSeeAll": true
+        },
+	        {
+            "name": "Ayak Isleri 3",
+            "playlistId": "iD5K09QH",
+            "enableSeeAll": true
+        },
+        {
+            "name": "Dunya Bu",
+            "playlistId": "TwbQ9U15",
             "enableSeeAll": true
         },
         {
