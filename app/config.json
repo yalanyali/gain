@@ -51,7 +51,7 @@
             "playlistId": "VH9hy3mD",
             "enableSeeAll": true
         },
-	{
+	    {
             "name": "Ayak Isleri",
             "playlistId": "N8WrgpfG",
             "enableSeeAll": true
@@ -84,6 +84,11 @@
         {
             "name": "Dayi Sov 2",
             "playlistId": "h09C8MPK",
+            "enableSeeAll": true
+        },
+        {
+            "name": "53-31",
+            "playlistId": "fXqGHz7O",
             "enableSeeAll": true
         },
         {
